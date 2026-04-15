@@ -1,0 +1,17 @@
+# 编译生成文件
+*.o
+*.obj
+*.bin
+*.elf
+*.hex
+
+# 日志和临时文件
+*.log
+tmp/
+
+# 可执行文件
+*gateway
+
+# 构建目录
+build/
+dist/
